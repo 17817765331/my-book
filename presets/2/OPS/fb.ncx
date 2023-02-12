@@ -1,0 +1,1059 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="uiYJMz3xa4n4JG5qVehOdKE"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.11.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>魔神战争</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="coverpage.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>简介</text>
+      </navLabel>
+      <content src="Introduction.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>总目录</text>
+      </navLabel>
+      <content src="Directory.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>第一卷:冒险启程篇</text>
+      </navLabel>
+      <content src="Volume_1.html"/>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>第一章:实现我的承诺！</text>
+        </navLabel>
+        <content src="V1_page_1.html"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>第二章:魔女</text>
+        </navLabel>
+        <content src="V1_page_2.html"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>第三章:屑女和哥我骑</text>
+        </navLabel>
+        <content src="V1_page_3.html"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>第四章:亲人相见</text>
+        </navLabel>
+        <content src="V1_page_4.html"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>第五章:成长起来的孩子</text>
+        </navLabel>
+        <content src="V1_page_5.html"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>第六章:突发的涨水</text>
+        </navLabel>
+        <content src="V1_page_6.html"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>第七章:顾此失彼</text>
+        </navLabel>
+        <content src="V1_page_7.html"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>第八章:入狱和赎罪</text>
+        </navLabel>
+        <content src="V1_page_8.html"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>第九章:踏上未知旅途</text>
+        </navLabel>
+        <content src="V1_page_9.html"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>第十章中:叩门</text>
+        </navLabel>
+        <content src="V1_page_10.html"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>第十一章:鏖战</text>
+        </navLabel>
+        <content src="V1_page_11.html"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>第十二章:援兵</text>
+        </navLabel>
+        <content src="V1_page_12.html"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>第十三章:离散</text>
+        </navLabel>
+        <content src="V1_page_13.html"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>第十四章:囚笼和漩涡</text>
+        </navLabel>
+        <content src="V1_page_14.html"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>第十五章:共战魔偶</text>
+        </navLabel>
+        <content src="V1_page_15.html"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>第十六章:结束,离开</text>
+        </navLabel>
+        <content src="V1_page_16.html"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>第十七章:再次出发的团队</text>
+        </navLabel>
+        <content src="V1_page_17.html"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>第十八章:Hovering hawk 冒险启程</text>
+        </navLabel>
+        <content src="V1_page_18.html"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>间话一:在那之后</text>
+        </navLabel>
+        <content src="V1_page_19.html"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>间话二:鲁洛伊的世界</text>
+        </navLabel>
+        <content src="V1_page_20.html"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>间话三:小小的世界,动听的声音(1)</text>
+        </navLabel>
+        <content src="V1_page_21.html"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>间话四:小小的世界,动听的声音(2)</text>
+        </navLabel>
+        <content src="V1_page_22.html"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>间话五:小小的世界,动听的声音(3)</text>
+        </navLabel>
+        <content src="V1_page_23.html"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>特别篇:住事亦不忘</text>
+        </navLabel>
+        <content src="V1_page_24.html"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>第一卷·结语</text>
+        </navLabel>
+        <content src="V1_page_25.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>第二卷:古龙解谜篇</text>
+      </navLabel>
+      <content src="Volume_2.html"/>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>设定追加Ⅰ</text>
+        </navLabel>
+        <content src="V2_page_1.html"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>第十九章:舱室里的闯入者</text>
+        </navLabel>
+        <content src="V2_page_2.html"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>第二十章:听取我的建言！</text>
+        </navLabel>
+        <content src="V2_page_3.html"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>第二十一章:计划与揭露</text>
+        </navLabel>
+        <content src="V2_page_4.html"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>第二十二章:第一次作战（一）</text>
+        </navLabel>
+        <content src="V2_page_5.html"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>第二十三章:第一次作战（二）</text>
+        </navLabel>
+        <content src="V2_page_6.html"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>第二十四章:乞求之人</text>
+        </navLabel>
+        <content src="V2_page_7.html"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>第二十五章:不能分散的团队</text>
+        </navLabel>
+        <content src="V2_page_8.html"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>第二十六章:矿洞的走私者</text>
+        </navLabel>
+        <content src="V2_page_9.html"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>第二十七章:事端的解决</text>
+        </navLabel>
+        <content src="V2_page_10.html"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>第二十八章:再次对话</text>
+        </navLabel>
+        <content src="V2_page_11.html"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>第二十九章:失之交背</text>
+        </navLabel>
+        <content src="V2_page_12.html"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>第三十章:妾身乃……</text>
+        </navLabel>
+        <content src="V2_page_13.html"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>第三十一章:更加复杂的变局</text>
+        </navLabel>
+        <content src="V2_page_14.html"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>间话一:菈菈与烹饪术(岩板烧)</text>
+        </navLabel>
+        <content src="V2_page_15.html"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>间话二:阿尔斯家的出游</text>
+        </navLabel>
+        <content src="V2_page_16.html"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>第三十二章:暂归宁静</text>
+        </navLabel>
+        <content src="V2_page_17.html"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48">
+        <navLabel>
+          <text>第三十三章:平平淡淡 新事不断</text>
+        </navLabel>
+        <content src="V2_page_18.html"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49">
+        <navLabel>
+          <text>第三十四章:枕边爱语</text>
+        </navLabel>
+        <content src="V2_page_19.html"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50">
+        <navLabel>
+          <text>第三十五章:作为父亲,支持你！</text>
+        </navLabel>
+        <content src="V2_page_20.html"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="51">
+        <navLabel>
+          <text>第三十六章:新的家人</text>
+        </navLabel>
+        <content src="V2_page_21.html"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>第三十六点五章:心事</text>
+        </navLabel>
+        <content src="V2_page_22.html"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>间话三:工厂房和迷路娘</text>
+        </navLabel>
+        <content src="V2_page_23.html"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="54">
+        <navLabel>
+          <text>第三十七章:毕坚利鲁的老友</text>
+        </navLabel>
+        <content src="V2_page_24.html"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>第三十八章:不安与危机感（一）</text>
+        </navLabel>
+        <content src="V2_page_25.html"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>第三十九章:不安与危机感（二）</text>
+        </navLabel>
+        <content src="V2_page_26.html"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>第四十章:爱夏的猜想</text>
+        </navLabel>
+        <content src="V2_page_27.html"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="58">
+        <navLabel>
+          <text>第四十一章:展示决心</text>
+        </navLabel>
+        <content src="V2_page_28.html"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>第四十二章:兄与妹与父亲（一）</text>
+        </navLabel>
+        <content src="V2_page_29.html"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>第四十三章:兄与妹与父亲（二）</text>
+        </navLabel>
+        <content src="V2_page_30.html"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>第四十四章:魔导铝三式改（一）</text>
+        </navLabel>
+        <content src="V2_page_31.html"/>
+      </navPoint>
+      <navPoint id="num_62" playOrder="62">
+        <navLabel>
+          <text>第四十五章:魔导铠三式改（二）</text>
+        </navLabel>
+        <content src="V2_page_32.html"/>
+      </navPoint>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>第四十六章:不适的距离感</text>
+        </navLabel>
+        <content src="V2_page_33.html"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64">
+        <navLabel>
+          <text>第四十七章:黑色的大家伙</text>
+        </navLabel>
+        <content src="V2_page_34.html"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="65">
+        <navLabel>
+          <text>第四十八章:魔王也要中二病</text>
+        </navLabel>
+        <content src="V2_page_35.html"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>第四十九章:『移行石板』</text>
+        </navLabel>
+        <content src="V2_page_36.html"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67">
+        <navLabel>
+          <text>第五十章:艺术就是......</text>
+        </navLabel>
+        <content src="V2_page_37.html"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>第五十一章:三位魔王</text>
+        </navLabel>
+        <content src="V2_page_38.html"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>第五十二章:『肉身魔王』『血液魔王』『骨头魔王』</text>
+        </navLabel>
+        <content src="V2_page_39.html"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>第五十三章:守护遗迹</text>
+        </navLabel>
+        <content src="V2_page_40.html"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="71">
+        <navLabel>
+          <text>第五十四章:决心渡海</text>
+        </navLabel>
+        <content src="V2_page_41.html"/>
+      </navPoint>
+      <navPoint id="num_72" playOrder="72">
+        <navLabel>
+          <text>第五十五章:悸动的心情</text>
+        </navLabel>
+        <content src="V2_page_42.html"/>
+      </navPoint>
+      <navPoint id="num_73" playOrder="73">
+        <navLabel>
+          <text>第五十六章:助推手</text>
+        </navLabel>
+        <content src="V2_page_43.html"/>
+      </navPoint>
+      <navPoint id="num_74" playOrder="74">
+        <navLabel>
+          <text>第五十七章:远去的旅人</text>
+        </navLabel>
+        <content src="V2_page_44.html"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>尾声 (值得期待的事)</text>
+        </navLabel>
+        <content src="V2_page_45.html"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="76">
+        <navLabel>
+          <text>间话四:庆典与礼物</text>
+        </navLabel>
+        <content src="V2_page_46.html"/>
+      </navPoint>
+      <navPoint id="num_77" playOrder="77">
+        <navLabel>
+          <text>间话五:庆典与混乱</text>
+        </navLabel>
+        <content src="V2_page_47.html"/>
+      </navPoint>
+      <navPoint id="num_78" playOrder="78">
+        <navLabel>
+          <text>间话六:庆典与计策</text>
+        </navLabel>
+        <content src="V2_page_48.html"/>
+      </navPoint>
+      <navPoint id="num_79" playOrder="79">
+        <navLabel>
+          <text>间话七:庆典与倾诉</text>
+        </navLabel>
+        <content src="V2_page_49.html"/>
+      </navPoint>
+      <navPoint id="num_80" playOrder="80">
+        <navLabel>
+          <text>间话八:庆典与献礼</text>
+        </navLabel>
+        <content src="V2_page_50.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_81" playOrder="81">
+      <navLabel>
+        <text>第三卷:渡海篇</text>
+      </navLabel>
+      <content src="Volume_3.html"/>
+      <navPoint id="num_82" playOrder="82">
+        <navLabel>
+          <text>设定追加Ⅱ</text>
+        </navLabel>
+        <content src="V3_page_1.html"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="83">
+        <navLabel>
+          <text>约稿场景设定Ⅰ</text>
+        </navLabel>
+        <content src="yg1.html"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="84">
+        <navLabel>
+          <text>第五十八章:登岛</text>
+        </navLabel>
+        <content src="V3_page_2.html"/>
+      </navPoint>
+      <navPoint id="num_85" playOrder="85">
+        <navLabel>
+          <text>第五十九章:海鱼聚落</text>
+        </navLabel>
+        <content src="V3_page_3.html"/>
+      </navPoint>
+      <navPoint id="num_86" playOrder="86">
+        <navLabel>
+          <text>第六十章:讨伐任务与庆典(一)</text>
+        </navLabel>
+        <content src="V3_page_4.html"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>第六十一章:讨伐任务与庆典(二)</text>
+        </navLabel>
+        <content src="V3_page_5.html"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88">
+        <navLabel>
+          <text>第六十二章:游岸族使节</text>
+        </navLabel>
+        <content src="V3_page_6.html"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="89">
+        <navLabel>
+          <text>第六十三章:丰收祭</text>
+        </navLabel>
+        <content src="V3_page_7.html"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="90">
+        <navLabel>
+          <text>第六十四章:游岸族部落</text>
+        </navLabel>
+        <content src="V3_page_8.html"/>
+      </navPoint>
+      <navPoint id="num_91" playOrder="91">
+        <navLabel>
+          <text>第六十五章:讨伐任务与猎人</text>
+        </navLabel>
+        <content src="V3_page_9.html"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92">
+        <navLabel>
+          <text>第六十六章:海上的和陆地上的都一个德行</text>
+        </navLabel>
+        <content src="V3_page_10.html"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="93">
+        <navLabel>
+          <text>第六十七章:宴会与在那之后</text>
+        </navLabel>
+        <content src="V3_page_11.html"/>
+      </navPoint>
+      <navPoint id="num_94" playOrder="94">
+        <navLabel>
+          <text>第六十八章:躁动的时期</text>
+        </navLabel>
+        <content src="V3_page_12.html"/>
+      </navPoint>
+      <navPoint id="num_95" playOrder="95">
+        <navLabel>
+          <text>第六十九章:记忆中的药剂师(一)</text>
+        </navLabel>
+        <content src="V3_page_13.html"/>
+      </navPoint>
+      <navPoint id="num_96" playOrder="96">
+        <navLabel>
+          <text>第七十章:记忆中的药剂师(二)</text>
+        </navLabel>
+        <content src="V3_page_14.html"/>
+      </navPoint>
+      <navPoint id="num_97" playOrder="97">
+        <navLabel>
+          <text>第七十一章:闪动幕星 海浪鱼鳞(一)</text>
+        </navLabel>
+        <content src="V3_page_15.html"/>
+      </navPoint>
+      <navPoint id="num_98" playOrder="98">
+        <navLabel>
+          <text>第七十二章:闪动幕星 海浪鱼鳞(二)</text>
+        </navLabel>
+        <content src="V3_page_16.html"/>
+      </navPoint>
+      <navPoint id="num_99" playOrder="99">
+        <navLabel>
+          <text>第七十三章:天气燥热</text>
+        </navLabel>
+        <content src="V3_page_17.html"/>
+      </navPoint>
+      <navPoint id="num_100" playOrder="100">
+        <navLabel>
+          <text>第七十三点五章:在木屋里小憩</text>
+        </navLabel>
+        <content src="V3_page_18.html"/>
+      </navPoint>
+      <navPoint id="num_101" playOrder="101">
+        <navLabel>
+          <text>第七十四章:海族的检测</text>
+        </navLabel>
+        <content src="V3_page_19.html"/>
+      </navPoint>
+      <navPoint id="num_102" playOrder="102">
+        <navLabel>
+          <text>第七十五章:格维奇的疑点</text>
+        </navLabel>
+        <content src="V3_page_20.html"/>
+      </navPoint>
+      <navPoint id="num_103" playOrder="103">
+        <navLabel>
+          <text>第七十六章:矛盾激化</text>
+        </navLabel>
+        <content src="V3_page_21.html"/>
+      </navPoint>
+      <navPoint id="num_104" playOrder="104">
+        <navLabel>
+          <text>第七十七章:第二位使徒</text>
+        </navLabel>
+        <content src="V3_page_22.html"/>
+      </navPoint>
+      <navPoint id="num_105" playOrder="105">
+        <navLabel>
+          <text>第七十八章:使徒联合</text>
+        </navLabel>
+        <content src="V3_page_23.html"/>
+      </navPoint>
+      <navPoint id="num_106" playOrder="106">
+        <navLabel>
+          <text>第七十九章:寻回格维奇</text>
+        </navLabel>
+        <content src="V3_page_24.html"/>
+      </navPoint>
+      <navPoint id="num_107" playOrder="107">
+        <navLabel>
+          <text>第八十章:矛盾解除</text>
+        </navLabel>
+        <content src="V3_page_25.html"/>
+      </navPoint>
+      <navPoint id="num_108" playOrder="108">
+        <navLabel>
+          <text>第八十一章:平静之地并不太平</text>
+        </navLabel>
+        <content src="V3_page_26.html"/>
+      </navPoint>
+      <navPoint id="num_109" playOrder="109">
+        <navLabel>
+          <text>第八十二章:前往北方海域</text>
+        </navLabel>
+        <content src="V3_page_27.html"/>
+      </navPoint>
+      <navPoint id="num_110" playOrder="110">
+        <navLabel>
+          <text>第八十三章:变形魔术</text>
+        </navLabel>
+        <content src="V3_page_28.html"/>
+      </navPoint>
+      <navPoint id="num_111" playOrder="111">
+        <navLabel>
+          <text>第八十四章:无人的岛屿</text>
+        </navLabel>
+        <content src="V3_page_29.html"/>
+      </navPoint>
+      <navPoint id="num_112" playOrder="112">
+        <navLabel>
+          <text>第八十五章:残余的遗迹</text>
+        </navLabel>
+        <content src="V3_page_30.html"/>
+      </navPoint>
+      <navPoint id="num_113" playOrder="113">
+        <navLabel>
+          <text>第八十六章:遗迹之下</text>
+        </navLabel>
+        <content src="V3_page_31.html"/>
+      </navPoint>
+      <navPoint id="num_114" playOrder="114">
+        <navLabel>
+          <text>间话一:造访赤龙山脉</text>
+        </navLabel>
+        <content src="V3_page_32.html"/>
+      </navPoint>
+      <navPoint id="num_115" playOrder="115">
+        <navLabel>
+          <text>间话二:父亲的旧友</text>
+        </navLabel>
+        <content src="V3_page_33.html"/>
+      </navPoint>
+      <navPoint id="num_116" playOrder="116">
+        <navLabel>
+          <text>间话三:历经盗贼团</text>
+        </navLabel>
+        <content src="V3_page_34.html"/>
+      </navPoint>
+      <navPoint id="num_117" playOrder="117">
+        <navLabel>
+          <text>特别篇:森林守护者与长耳神子(一)</text>
+        </navLabel>
+        <content src="V3_page_35.html"/>
+      </navPoint>
+      <navPoint id="num_118" playOrder="118">
+        <navLabel>
+          <text>特别篇:森林守护者与长耳神子(二)</text>
+        </navLabel>
+        <content src="V3_page_36.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_119" playOrder="119">
+      <navLabel>
+        <text>第四卷:黯变篇</text>
+      </navLabel>
+      <content src="Volume_4.html"/>
+      <navPoint id="num_120" playOrder="120">
+        <navLabel>
+          <text>第八十七章:返程的航船</text>
+        </navLabel>
+        <content src="V4_page_1.html"/>
+      </navPoint>
+      <navPoint id="num_121" playOrder="121">
+        <navLabel>
+          <text>第八十八章:渡海风暴</text>
+        </navLabel>
+        <content src="V4_page_2.html"/>
+      </navPoint>
+      <navPoint id="num_122" playOrder="122">
+        <navLabel>
+          <text>第八十九章:羽冢岛</text>
+        </navLabel>
+        <content src="V4_page_3.html"/>
+      </navPoint>
+      <navPoint id="num_123" playOrder="123">
+        <navLabel>
+          <text>第九十章:魔物与挡刀</text>
+        </navLabel>
+        <content src="V4_page_4.html"/>
+      </navPoint>
+      <navPoint id="num_124" playOrder="124">
+        <navLabel>
+          <text>第九十一章:曾经的自己</text>
+        </navLabel>
+        <content src="V4_page_5.html"/>
+      </navPoint>
+      <navPoint id="num_125" playOrder="125">
+        <navLabel>
+          <text>第九十二章:黑夜勿怕</text>
+        </navLabel>
+        <content src="V4_page_6.html"/>
+      </navPoint>
+      <navPoint id="num_126" playOrder="126">
+        <navLabel>
+          <text>第九十三章:与菈菈对峙</text>
+        </navLabel>
+        <content src="V4_page_7.html"/>
+      </navPoint>
+      <navPoint id="num_127" playOrder="127">
+        <navLabel>
+          <text>第九十四章:关于未来的真相</text>
+        </navLabel>
+        <content src="V4_page_8.html"/>
+      </navPoint>
+      <navPoint id="num_128" playOrder="128">
+        <navLabel>
+          <text>第九十五章:迷途知返</text>
+        </navLabel>
+        <content src="V4_page_9.html"/>
+      </navPoint>
+      <navPoint id="num_129" playOrder="129">
+        <navLabel>
+          <text>第九十六章:迷雾与死灵</text>
+        </navLabel>
+        <content src="V4_page_10.html"/>
+      </navPoint>
+      <navPoint id="num_130" playOrder="130">
+        <navLabel>
+          <text>第九十七章:毒雾与魔咒</text>
+        </navLabel>
+        <content src="V4_page_11.html"/>
+      </navPoint>
+      <navPoint id="num_131" playOrder="131">
+        <navLabel>
+          <text>第九十八章:轰爆魔术(一)</text>
+        </navLabel>
+        <content src="V4_page_12.html"/>
+      </navPoint>
+      <navPoint id="num_132" playOrder="132">
+        <navLabel>
+          <text>第九十九章:轰爆魔术(二)</text>
+        </navLabel>
+        <content src="V4_page_13.html"/>
+      </navPoint>
+      <navPoint id="num_133" playOrder="133">
+        <navLabel>
+          <text>第一百章:无法战胜的对手</text>
+        </navLabel>
+        <content src="V4_page_14.html"/>
+      </navPoint>
+      <navPoint id="num_134" playOrder="134">
+        <navLabel>
+          <text>间话一:菈菈与烹饪术</text>
+        </navLabel>
+        <content src="V4_page_15.html"/>
+      </navPoint>
+      <navPoint id="num_135" playOrder="135">
+        <navLabel>
+          <text>第一百零一章:未曾经历的噩梦</text>
+        </navLabel>
+        <content src="V4_page_16.html"/>
+      </navPoint>
+      <navPoint id="num_136" playOrder="136">
+        <navLabel>
+          <text>第一百零二章:撅断的水龙王·梦境</text>
+        </navLabel>
+        <content src="V4_page_17.html"/>
+      </navPoint>
+      <navPoint id="num_137" playOrder="137">
+        <navLabel>
+          <text>第一百零三章:撅断的水龙王·现实</text>
+        </navLabel>
+        <content src="V4_page_18.html"/>
+      </navPoint>
+      <navPoint id="num_138" playOrder="138">
+        <navLabel>
+          <text>第一百零四章:暗夜由光破晓</text>
+        </navLabel>
+        <content src="V4_page_19.html"/>
+      </navPoint>
+      <navPoint id="num_139" playOrder="139">
+        <navLabel>
+          <text>第一百零五章:灵神出窍</text>
+        </navLabel>
+        <content src="V4_page_20.html"/>
+      </navPoint>
+      <navPoint id="num_140" playOrder="140">
+        <navLabel>
+          <text>第一百零六章:你去哪儿 我就去哪儿</text>
+        </navLabel>
+        <content src="V4_page_21.html"/>
+      </navPoint>
+      <navPoint id="num_141" playOrder="141">
+        <navLabel>
+          <text>第一百零七章:关于灵魂的猜想</text>
+        </navLabel>
+        <content src="V4_page_22.html"/>
+      </navPoint>
+      <navPoint id="num_142" playOrder="142">
+        <navLabel>
+          <text>第一百零八章:背靠着你，心中有你</text>
+        </navLabel>
+        <content src="V4_page_23.html"/>
+      </navPoint>
+      <navPoint id="num_143" playOrder="143">
+        <navLabel>
+          <text>第一百零八点五章:龙吟驱雾</text>
+        </navLabel>
+        <content src="V4_page_24.html"/>
+      </navPoint>
+      <navPoint id="num_144" playOrder="144">
+        <navLabel>
+          <text>第一百零九章:将海染成血</text>
+        </navLabel>
+        <content src="V4_page_25.html"/>
+      </navPoint>
+      <navPoint id="num_145" playOrder="145">
+        <navLabel>
+          <text>第一百一十章:痛泣，归去!</text>
+        </navLabel>
+        <content src="V4_page_26.html"/>
+      </navPoint>
+      <navPoint id="num_146" playOrder="146">
+        <navLabel>
+          <text>约稿场景设定Ⅱ</text>
+        </navLabel>
+        <content src="yg2.html"/>
+      </navPoint>
+      <navPoint id="num_147" playOrder="147">
+        <navLabel>
+          <text>【if线】假如我是你的救世主Ⅰ</text>
+        </navLabel>
+        <content src="V4_page_27.html"/>
+      </navPoint>
+      <navPoint id="num_148" playOrder="148">
+        <navLabel>
+          <text>【if线】假如我是你的救世主Ⅱ</text>
+        </navLabel>
+        <content src="V4_page_28.html"/>
+      </navPoint>
+      <navPoint id="num_149" playOrder="149">
+        <navLabel>
+          <text>【if线】假如我是你的救世主Ⅲ</text>
+        </navLabel>
+        <content src="V4_page_29.html"/>
+      </navPoint>
+      <navPoint id="num_150" playOrder="150">
+        <navLabel>
+          <text>【if线】爱你，菈菈Ⅰ</text>
+        </navLabel>
+        <content src="V4_page_30.html"/>
+      </navPoint>
+      <navPoint id="num_151" playOrder="151">
+        <navLabel>
+          <text>【if线】爱你，菈菈Ⅱ</text>
+        </navLabel>
+        <content src="V4_page_31.html"/>
+      </navPoint>
+      <navPoint id="num_152" playOrder="152">
+        <navLabel>
+          <text>【if线】爱夏的小兵士Ⅰ</text>
+        </navLabel>
+        <content src="V4_page_32.html"/>
+      </navPoint>
+      <navPoint id="num_153" playOrder="153">
+        <navLabel>
+          <text>【if线】爱夏的小兵士Ⅱ</text>
+        </navLabel>
+        <content src="V4_page_33.html"/>
+      </navPoint>
+      <navPoint id="num_154" playOrder="154">
+        <navLabel>
+          <text>【if线】爱夏的小兵士Ⅲ</text>
+        </navLabel>
+        <content src="V4_page_34.html"/>
+      </navPoint>
+      <navPoint id="num_155" playOrder="155">
+        <navLabel>
+          <text>【人物志】格维奇·格兰特</text>
+        </navLabel>
+        <content src="V4_page_35.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_156" playOrder="156">
+      <navLabel>
+        <text>第五卷:觉醒篇</text>
+      </navLabel>
+      <content src="Volume_5.html"/>
+      <navPoint id="num_157" playOrder="157">
+        <navLabel>
+          <text>第一百一十一章:过去的家人</text>
+        </navLabel>
+        <content src="V5_page_1.html"/>
+      </navPoint>
+      <navPoint id="num_158" playOrder="158">
+        <navLabel>
+          <text>第一百一十二章:现在的反思</text>
+        </navLabel>
+        <content src="V5_page_2.html"/>
+      </navPoint>
+      <navPoint id="num_159" playOrder="159">
+        <navLabel>
+          <text>第一百一十三章:风雪覆盖的大地</text>
+        </navLabel>
+        <content src="V5_page_3.html"/>
+      </navPoint>
+      <navPoint id="num_160" playOrder="160">
+        <navLabel>
+          <text>第一百一十四章:冰湖石碑</text>
+        </navLabel>
+        <content src="V5_page_4.html"/>
+      </navPoint>
+      <navPoint id="num_161" playOrder="161">
+        <navLabel>
+          <text>结束章:聚是一团火，散是满天星</text>
+        </navLabel>
+        <content src="V5_page_5.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_162" playOrder="162">
+      <navLabel>
+        <text>特别篇:小日常</text>
+      </navLabel>
+      <content src="Volume_su.html"/>
+      <navPoint id="num_163" playOrder="163">
+        <navLabel>
+          <text>【元旦整活】泥沼与少女小心心思</text>
+        </navLabel>
+        <content src="Vsu_page_1.html"/>
+      </navPoint>
+      <navPoint id="num_164" playOrder="164">
+        <navLabel>
+          <text>【整活】鬼怪或神明</text>
+        </navLabel>
+        <content src="Vsu_page_2.html"/>
+      </navPoint>
+      <navPoint id="num_165" playOrder="165">
+        <navLabel>
+          <text>【水篇】洛琪希教学的其中一例(一)</text>
+        </navLabel>
+        <content src="Vsu_page_3.html"/>
+      </navPoint>
+      <navPoint id="num_166" playOrder="166">
+        <navLabel>
+          <text>【水篇】洛琪希教学的其中一例(二)</text>
+        </navLabel>
+        <content src="Vsu_page_4.html"/>
+      </navPoint>
+      <navPoint id="num_167" playOrder="167">
+        <navLabel>
+          <text>【风篇】爸爸的魔术教学(一)</text>
+        </navLabel>
+        <content src="Vsu_page_5.html"/>
+      </navPoint>
+      <navPoint id="num_168" playOrder="168">
+        <navLabel>
+          <text>【风篇】爸爸的魔术教学(二)</text>
+        </navLabel>
+        <content src="Vsu_page_6.html"/>
+      </navPoint>
+      <navPoint id="num_169" playOrder="169">
+        <navLabel>
+          <text>【焰篇】阿尔斯的训练</text>
+        </navLabel>
+        <content src="Vsu_page_7.html"/>
+      </navPoint>
+      <navPoint id="num_170" playOrder="170">
+        <navLabel>
+          <text>【尘篇】属于孩子们的玩乐(一)</text>
+        </navLabel>
+        <content src="Vsu_page_8.html"/>
+      </navPoint>
+      <navPoint id="num_171" playOrder="171">
+        <navLabel>
+          <text>【尘篇】属于孩子们的玩乐(二)</text>
+        </navLabel>
+        <content src="Vsu_page_9.html"/>
+      </navPoint>
+      <navPoint id="num_172" playOrder="172">
+        <navLabel>
+          <text>【圣诞篇】</text>
+        </navLabel>
+        <content src="Vsu_page_10.html"/>
+      </navPoint>
+      <navPoint id="num_173" playOrder="173">
+        <navLabel>
+          <text>【圣诞后篇】鲁迪的圣诞老人</text>
+        </navLabel>
+        <content src="Vsu_page_11.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_174" playOrder="174">
+      <navLabel>
+        <text>完结感言</text>
+      </navLabel>
+      <content src="END.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
