@@ -2570,8 +2570,8 @@
             }
             )).catch((function() {
                 t.className = n.className = "without-cover-image",
-                t.insertBefore(H.getBookIcon(), t.Info),
-                n.insertBefore(H.getBookIcon(), n.Info)
+                t.insertBefore(H.getBookIcon(), t.Info)
+                
             }
             )))
         }
