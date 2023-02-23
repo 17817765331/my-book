@@ -7725,6 +7725,10 @@
         }
         ,
         H.getBookIcon = function() {
+            return sML.create("div", {
+                className: "book-icon",
+                innerHTML: "<span></span>"
+            })
         }
         ;
         var D = {};
