@@ -6,4 +6,4 @@
 
 4.魔神战争   星兔予丞 作者发布地址[B站](https://www.bilibili.com/read/readlist/rl441031)  
 
-具体的文章出处在表里[文档](https://github.com/17817765331/my-book/tree/main/books/wztr.xlsx)
+具体的文章出处在wztr.xlsx
